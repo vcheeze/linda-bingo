@@ -128,8 +128,8 @@ export default [
   },
   {
     id: 26,
-    label: 'What is Linda’s favorite hotel in the UAE?',
-    answer: 'The Chedi Al Bait',
+    label: 'What is Linda\'s favorite hymn to sing at church?',
+    answer: 'Afflicted Saint, To Christ Draw Near',
   },
   {
     id: 27,
