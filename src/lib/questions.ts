@@ -43,6 +43,7 @@ export default [
   {
     id: 9,
     label: 'What is something you appreciate about Linda?',
+    note: 'Maybe her husband?',
     answer: '',
   },
   {
@@ -98,7 +99,7 @@ export default [
   },
   {
     id: 20,
-    label: 'What did Linda used to do before becoming a full-time, lovely, gentle, and caring wife + mother? ',
+    label: 'What did Linda do before becoming a full-time, lovely, gentle, and caring wife + mother? ',
     answer: 'Barista, sales at GAP, fashion industry middleman',
   },
   {
@@ -149,6 +150,7 @@ export default [
   {
     id: 30,
     label: 'What book would you recommend Linda read in this coming year?',
+    note: 'Except for the Bible',
     answer: '',
   },
 ];
