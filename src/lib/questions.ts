@@ -1,7 +1,8 @@
 export default [
   {
     id: 1,
-    label: 'How do you spell Linda’s real name? (Pronounce for bonus love from Linda)',
+    label: 'How do you spell Linda’s real name?',
+    note: '(Pronounce for bonus love from Linda)',
     answer: 'Yu Hsuan Huang 黃于瑄',
   },
   {
@@ -81,7 +82,8 @@ export default [
   },
   {
     id: 17,
-    label: 'How many ECCD staff members’ homes did Linda live in before getting married? Please list them. Extra favor from Linda for getting the correct order.',
+    label: 'How many ECCD staff members’ homes did Linda live in before getting married? Please list them all.',
+    note: ' Extra favor from Linda for getting the correct order.',
     answer: '3: Woodwards, Lims, Welkners',
   },
   {

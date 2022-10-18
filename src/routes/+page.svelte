@@ -31,7 +31,7 @@
 
   .bingo-content {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 20px;
     grid-row-gap: 10px;
   }
