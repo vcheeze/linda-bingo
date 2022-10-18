@@ -7,7 +7,10 @@
 </script>
 
 <Collapsible label={question.id.toString()}>
-  <p>{question.label}</p>
+  <h4>{question.label}</h4>
+  {#if !!question.note}
+    <p>{question.note}</p>
+  {/if}
   {#if !!question.answer}
     <Button outline="success" on:click={onClick(question)}>
       See the answer!

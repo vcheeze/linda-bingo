@@ -1,0 +1,4 @@
+.collapsible:first-of-type {
+  border-top: none;
+  border-top-color: transparent;
+}
