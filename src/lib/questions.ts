@@ -73,8 +73,8 @@ export default [
   },
   {
     id: 15,
-    label: 'Where is Linda? Who is Linda? Why is Linda?',
-    answer: '',
+    label: 'What does Linda like more: pizza or pasta?',
+    answer: 'Pasta',
   },
   {
     id: 16,
@@ -124,7 +124,7 @@ export default [
   },
   {
     id: 25,
-    label: '“Listen, Linda. Linda, Linda, listen to me, ___________________________”',
+    label: 'Complete the sentence: “Listen, Linda. Linda, Linda, listen to me, ___________________________”',
     answer: '',
   },
   {
