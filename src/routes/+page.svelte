@@ -11,6 +11,7 @@
 <div class="bingo">
   <img class="bingo-img" src={hearts} alt="hearts" />
   <h1>Welcome to the Linda Bingo</h1>
+  <h3>a.k.a. Lingo</h3>
   <div class="bingo-content">
     {#each questions as question}
       <Question question={question} onClick={(q) => { selectedQuestion = q; showAnswer = true }} />
