@@ -28,7 +28,7 @@ export default [
   {
     id: 6,
     label: 'How long did Linda used to ride her moped in order to reach her church in Taiwan?',
-    answer: 'Roughtly 45 minutes',
+    answer: 'At least an hour',
   },
   {
     id: 7,
